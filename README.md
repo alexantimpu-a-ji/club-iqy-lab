@@ -1,2 +1,12 @@
 # club-iqy-lab
-HTML page archive and documentation
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 结构说明
+
+- 根目录用于存放发布页面
+- 仓库说明用于辅助识别用途
+
+## 使用说明
+
+如需查看页面内容，请打开对应的 HTML 文件或 Pages 地址。
